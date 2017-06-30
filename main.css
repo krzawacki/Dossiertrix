@@ -1,7 +1,7 @@
 body {
     background-color: #d3d3d3;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 h3 {
@@ -28,8 +28,6 @@ h5 {
 
 img {
 	border-radius: 50px;
-	float: right;
-	position: relative;
-	right: 210px;
-	top: -10px;
-}	
+	display: block;
+	margin: auto;
+}		
